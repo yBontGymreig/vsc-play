@@ -1,0 +1,16 @@
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\bin\Debug\net5.0\vsc-play.exe
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\bin\Debug\net5.0\vsc-play.deps.json
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\bin\Debug\net5.0\vsc-play.runtimeconfig.json
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\bin\Debug\net5.0\vsc-play.runtimeconfig.dev.json
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\bin\Debug\net5.0\vsc-play.dll
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\bin\Debug\net5.0\ref\vsc-play.dll
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\bin\Debug\net5.0\vsc-play.pdb
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\obj\Debug\net5.0\vsc-play.csproj.AssemblyReference.cache
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\obj\Debug\net5.0\vsc-play.GeneratedMSBuildEditorConfig.editorconfig
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\obj\Debug\net5.0\vsc-play.AssemblyInfoInputs.cache
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\obj\Debug\net5.0\vsc-play.AssemblyInfo.cs
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\obj\Debug\net5.0\vsc-play.csproj.CoreCompileInputs.cache
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\obj\Debug\net5.0\vsc-play.dll
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\obj\Debug\net5.0\ref\vsc-play.dll
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\obj\Debug\net5.0\vsc-play.pdb
+\\scg.shrewsbury.ac.uk\files\LR\Staff_Documents\S0005413\Desktop\repos\vsc-play\obj\Debug\net5.0\vsc-play.genruntimeconfig.cache
